@@ -1,8 +1,8 @@
 import React from "react"
 
-import About from "./components/About"
-import Footer from "./components/Footer"
-import Info from "./components/Info"
+import About from "./src/components/About"
+import Footer from "./src/components/Footer"
+import Info from "./src/components/Info"
 
 export default function App() {
     return(

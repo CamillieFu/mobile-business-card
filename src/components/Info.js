@@ -14,8 +14,8 @@ export default function Info() {
               <h4 className="info-job">Frontend Developer</h4>
               <a href="https://github.com/CamillieFu" className="info-github">github.com/CamillieFu</a>
               <div className="info-links">
-                  <a href="https://github.com/CamillieFu" className="info-link-linkedin">Linkedin</a>
-                  <a href="https://github.com/CamillieFu" className="info-link-email">Email</a>
+                  <a href="www.linkedin.com/in/camille-fujisaki-80367787" className="info-link-linkedin">Linkedin</a>
+                  <a href="mailto: fujisakicamille@gmail.com" className="info-link-email">Email</a>
               </div>
           </div>
         </div>

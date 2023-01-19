@@ -1,7 +1,10 @@
 import React from "react"
+import '../assets/footer.css'
 
 export default function Footer() {
      return(
-        <h1>Hi</h1>
+        <div className="footer">
+          <p>Copyright ©2023 by Camille Fujisaki </p>
+        </div>
     )
 }

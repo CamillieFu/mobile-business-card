@@ -1,4 +1,4 @@
-import './style.css';
+import './assets/style.css';
 import About from "./components/About"
 import Footer from "./components/Footer"
 import Info from "./components/Info"

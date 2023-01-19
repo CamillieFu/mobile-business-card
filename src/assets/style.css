@@ -1,19 +1,7 @@
-/* Fonts */
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');
-
-/* Fontawesome */
-@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
-
 body {
   margin: 0;
-  font-family: Open Sans;
-}
-
-h1,
-h2,
-h3,
-h4 {
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
+  font-size: 400;
 }
 
 a {
@@ -47,7 +35,6 @@ a {
   box-sizing: border-box;
   text-align: center;
   text-decoration: none;
-  font-family: 'Inter', sans-serif;
   margin: 0;
 }
 

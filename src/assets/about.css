@@ -46,6 +46,15 @@
   object-fit: cover;
 }
 
+@media (max-width: 540px) {
+  .card-img {
+    min-height: 150px;
+    max-height: 150px;
+    min-width: 200px;
+    max-width: 200px;
+  }
+}
+
 .about-introduction {
   margin: 0px 36px;
 }

@@ -63,6 +63,7 @@ a {
 .info-link-email {
   font-size: 14px;
   color: #374151;
+  background-color: #dcdddd;
 }
 
 .profile-img {
@@ -77,7 +78,6 @@ a {
 .profile-img-div {
   background-color: #ecf0f0;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
-  margin-bottom: 24px;
 }
 
 .info-name {
@@ -98,4 +98,79 @@ a {
   color: #4A4E74;
   ;
   font-size: 12px;
+}
+
+.info-text.dark {
+  background-color: rgb(53, 53, 53);
+  color: #dcdddd;
+}
+
+.info-text {
+  padding-top: 24px;
+}
+.toggler {
+    display: flex;
+    align-items: center;
+    padding: 24px;
+}
+
+.toggler-div {
+  display: flex;
+  justify-content: right;
+  background-color: #ecf0f0;
+}
+
+.toggler p {
+    font-size: 0.625rem;
+    font-weight: 600;
+}
+
+.toggler--slider {
+    width: 25px;
+    height: 13px;
+    background-color: #2B283A;
+    border-radius: 2rem;
+    margin-inline: 7px;
+    cursor: pointer;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border: 1px solid black;
+    box-sizing: content-box;
+}
+
+nav.dark .toggler--slider {
+    border-color: white;
+    background-color: #F5F5F5;
+}
+
+.toggler--slider--circle {
+    height: 13px;
+    width: 13px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+nav.dark .toggler--slider--circle {
+    background-color: black;
+}
+
+.toggler--light {
+    color: #2B283A;
+}
+
+nav.dark .toggler--light {
+    color: #918E9B;
+}
+
+.toggler--dark {
+    color: #D5D4D8;
+}
+
+nav.dark .toggler-dark {
+    color: #FFFFFF;
+}
+
+nav.dark .toggler--slider {
+    justify-content: flex-end;
 }

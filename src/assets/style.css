@@ -38,34 +38,6 @@ a {
   margin: 0;
 }
 
-.info-links {
-  display: flex;
-  justify-content: center;
-}
-
-.info-links>a {
-  padding: 8px;
-  justify-content: center;
-  padding: 8px 24px;
-  margin: 16px;
-  border-radius: 8px;
-  border: 1px solid #D1D5DB;
-  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
-  border-radius: 6px;
-}
-
-.info-link-linkedin {
-  background-color: #297FE5;
-  color: white;
-  font-size: 14px;
-}
-
-.info-link-email {
-  font-size: 14px;
-  color: #374151;
-  background-color: #dcdddd;
-}
-
 .profile-img {
   width: 200px;
   height: 200px;
@@ -96,8 +68,11 @@ a {
 
 .info-github {
   color: #4A4E74;
-  ;
   font-size: 12px;
+}
+
+.dark .info-github {
+  color: #c3d1ed;
 }
 
 .info-text.dark {
@@ -141,7 +116,7 @@ a {
 
 nav.dark .toggler--slider {
     border-color: white;
-    background-color: #F5F5F5;
+    background-color: #848484;
 }
 
 .toggler--slider--circle {
@@ -167,8 +142,8 @@ nav.dark .toggler--light {
     color: #D5D4D8;
 }
 
-nav.dark .toggler-dark {
-    color: #FFFFFF;
+nav.dark .toggler--dark {
+    color: #2B283A;
 }
 
 nav.dark .toggler--slider {

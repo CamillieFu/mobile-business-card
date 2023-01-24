@@ -27,7 +27,7 @@ export default function Info(props) {
         </div>
         <div className={props.darkMode ? "info-text dark": "info-text"}>
             <h3 className="info-name">Camille Fujisaki</h3>
-            <h4 className="info-job">Frontend Developer</h4>
+            <h4 className="info-job">Full-Stack Developer</h4>
             <a href="https://github.com/CamillieFu" className="info-github">github.com/CamillieFu</a>
             <div className="info-links">
                 <a

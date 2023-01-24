@@ -1,0 +1,114 @@
+.profile-img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 32px 0px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+
+.profile-img-div {
+  background-color: #ecf0f0;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+}
+
+.info-name {
+  font-weight: 600;
+  font-size: 20px;
+  letter-spacing: 0.05rem;
+  font-weight: 600;
+  text-shadow: 1px 1px 1px rgba(129, 129, 129, 0.5);
+}
+
+.info-job {
+  font-weight: 400;
+  font-size: 13px;
+  color: #F47D27;
+  margin-top: 2px;
+  margin-bottom: 10px;
+}
+
+.info-github {
+  color: #4A4E74;
+  font-size: 12px;
+}
+
+.dark .info-github {
+  color: #c3d1ed;
+}
+
+.info-text.dark {
+  background-color: rgb(53, 53, 53);
+  color: #dcdddd;
+}
+
+.info-text {
+  padding-top: 24px;
+}
+
+.toggler {
+  display: flex;
+  align-items: center;
+  padding: 24px;
+}
+
+.toggler-div {
+  display: flex;
+  justify-content: right;
+  background-color: #ecf0f0;
+}
+
+.toggler p {
+  font-size: 0.625rem;
+  font-weight: 600;
+}
+
+.toggler--slider {
+  width: 25px;
+  height: 13px;
+  background-color: #2B283A;
+  border-radius: 2rem;
+  margin-inline: 7px;
+  cursor: pointer;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border: 1px solid black;
+  box-sizing: content-box;
+}
+
+nav.dark .toggler--slider {
+  border-color: white;
+  background-color: #848484;
+}
+
+.toggler--slider--circle {
+  height: 13px;
+  width: 13px;
+  background-color: white;
+  border-radius: 50%;
+}
+
+nav.dark .toggler--slider--circle {
+  background-color: black;
+}
+
+.toggler--light {
+  color: #2B283A;
+}
+
+nav.dark .toggler--light {
+  color: #918E9B;
+}
+
+.toggler--dark {
+  color: #D5D4D8;
+}
+
+nav.dark .toggler--dark {
+  color: #2B283A;
+}
+
+nav.dark .toggler--slider {
+  justify-content: flex-end;
+}

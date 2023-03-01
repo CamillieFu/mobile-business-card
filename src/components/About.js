@@ -18,11 +18,11 @@ export default function About(props) {
         <div className="card-collection-article">
           <img src={Chirpy} alt="chirpy app home page" className="card-img"/>
           <div className="card-text">
-            <a href="https://www.chirpyapp.net/" target="_blank" rel="noopener noreferrer" className="card-title"><h1>Chirpy</h1></a>
+            <a href="https://chirpy-camilliefu.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="card-title"><h1>Chirpy</h1></a>
             <p>Chirpy is an app and chrome extension which protects children from inappropriate content online.
               I developed this app as a passion project to help children who want and need the freedom to explore online, but don't need to be traumatized by some of the extreme content available.
             </p>
-            <a href="https://www.chirpyapp.net/" className="btn-green" target="_blank" rel="noopener noreferrer">See App</a>
+            <a href="https://chirpy-camilliefu.herokuapp.com/" className="btn-green" target="_blank" rel="noopener noreferrer">See App</a>
           </div>
         </div>
         <div className="card-collection-article">
@@ -43,6 +43,16 @@ export default function About(props) {
               It is an app built with React and PHP, and currently in the beta-testing phase.
             </p>
             <a href="https://www.mamoru.earth/" className="btn-green" target="_blank" rel="noopener noreferrer">See App</a>
+          </div>
+        </div>
+        <div className="card-collection-article">
+          <img src={Chirpy} alt="2bridal app home page" className="card-img"/>
+          <div className="card-text">
+            <a href="https://twobridal.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="card-title"><h1>2Bridal</h1></a>
+            <p>2Bridal is an app for renting and borrowing used wedding dresses. It is simple, easy to browse and navigate, and fully responsive!
+              Made with: Ruby on Rails, CSS, Javascript
+            </p>
+            <a href="https://chirpy-camilliefu.herokuapp.com/" className="btn-green" target="_blank" rel="noopener noreferrer">See App</a>
           </div>
         </div>
       </div>

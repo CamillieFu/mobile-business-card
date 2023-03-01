@@ -4,6 +4,7 @@ import AvcImage from "../images/avc.jpg"
 import Mamoru from "../images/mamoru.jpg"
 import '../assets/button.css'
 import '../assets/about.css'
+import Video from '../images/2bridal.mov';
 
 export default function About(props) {
     return(
@@ -46,7 +47,7 @@ export default function About(props) {
           </div>
         </div>
         <div className="card-collection-article">
-          <img src={Chirpy} alt="2bridal app home page" className="card-img"/>
+          <video src={Video} width="600" height="300" controls="controls" autoplay="true" />
           <div className="card-text">
             <a href="https://twobridal.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="card-title"><h1>2Bridal</h1></a>
             <p>2Bridal is an app for renting and borrowing used wedding dresses. It is simple, easy to browse and navigate, and fully responsive!

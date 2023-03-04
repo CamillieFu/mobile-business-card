@@ -17,10 +17,10 @@ export default function About(props) {
         <p className="about-introduction-text">
           Greetings! I am a full-stack developer with a background in education, psychology and human development.
           I love researching, solving difficult problems, and creating beautiful products ✨ I am currently working with Ruby on Rails, JavaScript, React.js, and Next.js.
-          Of course, I also have experience with HTML, CSS, Boostrap, Tailwind, and other front-end frameworks!
+          Of course, I also have experience with HTML, CSS, Bootstrap, Tailwind, and other front-end frameworks!
           I am constantly evolving and developing my skills while keeping my eye out for the next thing in web development.
         </p>
-        <h4 className="about-introduction-text">Check out some of my solo projects and freelance work below 👇🏼👇🏼👇🏼</h4>
+        <h4 className="about-introduction-text">Check out some of my projects and freelance work below 👇🏼👇🏼👇🏼</h4>
         {/* projects */}
         <div className="card-collection-article">
           <img src={Chirpy} alt="chirpy app home page" className="card-img"/>

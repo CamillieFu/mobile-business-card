@@ -29,7 +29,10 @@ export default function About(props) {
             <p>Chirpy is an app and chrome extension which protects children from inappropriate content online.
               I developed this app as a passion project to help children who want and need the freedom to explore online, but don't need to be traumatized by some of the extreme content available.
             </p>
-            <a href="https://chirpy-camilliefu.herokuapp.com/" className="btn-green" target="_blank" rel="noopener noreferrer">See App</a>
+            <div className="links">
+              <a href="https://chirpy-camilliefu.herokuapp.com/" className="btn-green" target="_blank" rel="noopener noreferrer">See App</a>
+              <a href="https://github.com/CamillieFu/chirpy" className="btn-green" target="_blank" rel="noopener noreferrer">See Code</a>
+            </div>
           </div>
         </div>
         <div className="card-collection-article">
@@ -60,7 +63,10 @@ export default function About(props) {
             <p>2Bridal is an app for renting and borrowing used wedding dresses. It is simple, easy to browse and navigate, and fully responsive!
               Made with: Ruby on Rails, CSS and Javascript.
             </p>
-            <a href="https://twobridal.herokuapp.com/" className="btn-green" target="_blank" rel="noopener noreferrer">See App</a>
+            <div className="links">
+              <a href="https://twobridal.herokuapp.com/" className="btn-green" target="_blank" rel="noopener noreferrer">See App</a>
+              <a href="https://github.com/CamillieFu/2bridal" className="btn-green" target="_blank" rel="noopener noreferrer">See Code</a>
+            </div>
           </div>
         </div>
         <div className="card-collection-article">
@@ -70,7 +76,10 @@ export default function About(props) {
             <p>This app is a very simple trivia game made using React, CSS and a quiz API. It is a very straightforward and addictive game!
               Of course, it is fully responsive and the design and graphics adjust to any screen size, so it can be enjoyed equally well on an SE or an ipad mini.
             </p>
-            <a href="https://camilliefu.github.io/Quizzism/" className="btn-green" target="_blank" rel="noopener noreferrer">See App</a>
+            <div className="links">
+              <a href="https://camilliefu.github.io/Quizzism/" className="btn-green" target="_blank" rel="noopener noreferrer">See App</a>
+              <a href="https://github.com/CamillieFu/Quizzism" className="btn-green" target="_blank" rel="noopener noreferrer">See Code</a>
+            </div>
           </div>
         </div>
         <div className="card-collection-article">
@@ -80,7 +89,10 @@ export default function About(props) {
             <p>This app is a simple game, "Tenzies" built using React. The object of the game is to roll all the dice until every die is the same number.
               The game is designed to look clean on both desktop and mobile, with little change in the look and feel of the UI.
             </p>
-            <a href="https://camilliefu.github.io/tenzies/" className="btn-green" target="_blank" rel="noopener noreferrer">See App</a>
+            <div className="links">
+              <a href="https://camilliefu.github.io/tenzies/" className="btn-green" target="_blank" rel="noopener noreferrer">See App</a>
+              <a href="https://github.com/CamillieFu/tenzies" className="btn-green" target="_blank" rel="noopener noreferrer">See Code</a>
+            </div>
           </div>
         </div>
         <div className="card-collection-article">
@@ -90,7 +102,10 @@ export default function About(props) {
             <p>This app is a simple note-taking app built using React and utilizes local storage. The design is minimal, cutesy (have you noticed I like purple?)
               and clutter-free. The size of the note-taking space and side bar are fully adjustable by the user.
             </p>
-            <a href="https://camilliefu.github.io/notepad/" className="btn-green" target="_blank" rel="noopener noreferrer">See App</a>
+            <div className="links">
+              <a href="https://camilliefu.github.io/notepad/" className="btn-green" target="_blank" rel="noopener noreferrer">See App</a>
+              <a href="https://github.com/CamillieFu/notepad" className="btn-green" target="_blank" rel="noopener noreferrer">See Code</a>
+            </div>
           </div>
         </div>
       </div>

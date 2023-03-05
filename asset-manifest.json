@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mobile-business-card/static/css/main.87b41161.css",
-    "main.js": "/mobile-business-card/static/js/main.be007dd1.js",
+    "main.css": "/mobile-business-card/static/css/main.86d68b01.css",
+    "main.js": "/mobile-business-card/static/js/main.9f0f167d.js",
     "static/js/787.ef507c12.chunk.js": "/mobile-business-card/static/js/787.ef507c12.chunk.js",
     "static/media/2bridal.png": "/mobile-business-card/static/media/2bridal.40a815ed9b54471589d5.png",
     "static/media/avc.jpg": "/mobile-business-card/static/media/avc.a069baf8921ba4e8d66a.jpg",
@@ -12,12 +12,12 @@
     "static/media/chirpy.jpg": "/mobile-business-card/static/media/chirpy.f64a34cd082bf6cc3ab2.jpg",
     "static/media/profile_pic.jpg": "/mobile-business-card/static/media/profile_pic.e8c50c94f94f2300da35.jpg",
     "index.html": "/mobile-business-card/index.html",
-    "main.87b41161.css.map": "/mobile-business-card/static/css/main.87b41161.css.map",
-    "main.be007dd1.js.map": "/mobile-business-card/static/js/main.be007dd1.js.map",
+    "main.86d68b01.css.map": "/mobile-business-card/static/css/main.86d68b01.css.map",
+    "main.9f0f167d.js.map": "/mobile-business-card/static/js/main.9f0f167d.js.map",
     "787.ef507c12.chunk.js.map": "/mobile-business-card/static/js/787.ef507c12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87b41161.css",
-    "static/js/main.be007dd1.js"
+    "static/css/main.86d68b01.css",
+    "static/js/main.9f0f167d.js"
   ]
 }

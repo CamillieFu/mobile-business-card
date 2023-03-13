@@ -1,5 +1,5 @@
 import React from "react"
-import ProfilePic from "../images/profile_pic.jpg"
+import ProfilePic from "../images/pizza.png"
 import '../assets/info.css'
 
 export default function Info(props) {

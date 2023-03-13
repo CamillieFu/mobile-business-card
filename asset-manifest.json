@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/mobile-business-card/static/css/main.86d68b01.css",
-    "main.js": "/mobile-business-card/static/js/main.9f0f167d.js",
+    "main.js": "/mobile-business-card/static/js/main.0e2fbc0b.js",
     "static/js/787.ef507c12.chunk.js": "/mobile-business-card/static/js/787.ef507c12.chunk.js",
+    "static/media/pizza.png": "/mobile-business-card/static/media/pizza.fcb4bdeecaf4ab90833d.png",
     "static/media/2bridal.png": "/mobile-business-card/static/media/2bridal.40a815ed9b54471589d5.png",
     "static/media/avc.jpg": "/mobile-business-card/static/media/avc.a069baf8921ba4e8d66a.jpg",
     "static/media/mamoru.jpg": "/mobile-business-card/static/media/mamoru.65db1ef7ecd73593c182.jpg",
@@ -10,14 +11,13 @@
     "static/media/tenzies.png": "/mobile-business-card/static/media/tenzies.590492e8924f7e3c4807.png",
     "static/media/note.png": "/mobile-business-card/static/media/note.c4fb26c9ed92a41596e8.png",
     "static/media/chirpy.jpg": "/mobile-business-card/static/media/chirpy.f64a34cd082bf6cc3ab2.jpg",
-    "static/media/profile_pic.jpg": "/mobile-business-card/static/media/profile_pic.e8c50c94f94f2300da35.jpg",
     "index.html": "/mobile-business-card/index.html",
     "main.86d68b01.css.map": "/mobile-business-card/static/css/main.86d68b01.css.map",
-    "main.9f0f167d.js.map": "/mobile-business-card/static/js/main.9f0f167d.js.map",
+    "main.0e2fbc0b.js.map": "/mobile-business-card/static/js/main.0e2fbc0b.js.map",
     "787.ef507c12.chunk.js.map": "/mobile-business-card/static/js/787.ef507c12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86d68b01.css",
-    "static/js/main.9f0f167d.js"
+    "static/js/main.0e2fbc0b.js"
   ]
 }
